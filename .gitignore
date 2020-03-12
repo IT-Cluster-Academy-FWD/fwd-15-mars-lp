@@ -1,0 +1,5 @@
+## IDE rules
+.tmp
+.idea
+.swp
+.vscode
