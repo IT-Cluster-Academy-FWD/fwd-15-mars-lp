@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.main-btn {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 22px 36px;
+    border-radius: 29px;
+    border: 2px solid #3b3b3b;
+    background-color: inherit;
+}
