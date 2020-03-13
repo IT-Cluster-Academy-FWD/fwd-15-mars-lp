@@ -22,7 +22,6 @@
 
 .generation-item img {
     width: 100%;
-    /* max-width: 983px; */
     height: auto;
 }
 
@@ -66,8 +65,6 @@ span {
 
 .flying-item {
     padding: 0;
-    /* justify-content: right; */
-    flex-direction: column;
     background-color: #fff;
     padding-top: 327px;
     padding-left: 215px;
